@@ -25,7 +25,7 @@
 ## Results and Findings
 
 ## Dashboard
-<img src = "HR Dashboard_1.png">
+<img src = "HR Dashboard.JPG">
 
 ---
 ## Conclusion and Recommendations
