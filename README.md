@@ -25,7 +25,8 @@
 ## Results and Findings
 
 ## Dashboard
-<img src = "HR Dashboard.JPG">
+<img src = "HR Dashboard.JPG" width= "2200px">
+
 
 ---
 ## Conclusion and Recommendations
